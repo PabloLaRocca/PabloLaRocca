@@ -12,7 +12,7 @@ Welcome
 ![](https://img.shields.io/badge/os-mac-informational?style=for-the-badge&logo=Apple&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/os-linux-informational?style=for-the-badge&logo=Linux&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/ide-vscode-informational?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white&color=blue)
-/*
+
 ## 📈 Work History
 
 **Technologies**
