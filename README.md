@@ -7,6 +7,7 @@ Welcome
 ![](https://img.shields.io/badge/code-JavaScript-informational?style=for-the-badge&logo=JavaScript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/framework-React-informational?style=for-the-badge&logo=React&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/code-jquery-informational?style=for-the-badge&logo=jQuery&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/code-Node-informational?style=for-the-badge&logo=node.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/db-mysql-informational?style=for-the-badge&logo=MySQL&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/code-flutter-informational?style=for-the-badge&logo=flutter&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/os-mac-informational?style=for-the-badge&logo=Apple&logoColor=white&color=blue)
