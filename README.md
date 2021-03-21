@@ -10,7 +10,7 @@ Welcome
 ![](https://img.shields.io/badge/code-Node-informational?style=for-the-badge&logo=node.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/db-mysql-informational?style=for-the-badge&logo=MySQL&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/code-Dart-informational?style=for-the-badge&logo=dart&logoColor=white&color=blue)
-![](https://img.shields.io/badge/framework-flutter-informational?style=for-the-badge&logo=flutter&logoColor=white&color=blue)
+![](https://img.shields.io/badge/mobile-flutter-informational?style=for-the-badge&logo=flutter&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/os-mac-informational?style=for-the-badge&logo=Apple&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/os-linux-informational?style=for-the-badge&logo=Linux&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/ide-vscode-informational?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white&color=blue)
