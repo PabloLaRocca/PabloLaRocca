@@ -2,7 +2,7 @@
 Welcome!!!
 
 I'm a systems engineering student. 
-Currently dedicated to making landing page or web page and create my own projects using backend languages (node.js principally) 
+Currently dedicated to making landing page or web pages and create my own projects using backend languages (node.js principally) 
 
 ## 💾 Technologies & Tools
 💻 Lenguage
