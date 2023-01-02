@@ -33,7 +33,6 @@ Welcome
 
 ![](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![](https://img.shields.io/badge/ide-vscode-informational?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white&color=blue)
 
 💡 Electronics - Prototyping Platforms
 
