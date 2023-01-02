@@ -2,37 +2,34 @@
 Welcome 
 
 ## 💾 Technologies & Tools
-Lenguage
+💻 Lenguage
 
 ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-Framework
+🌐 Framework
+
 ![](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-
-![](https://img.shields.io/badge/code-php-informational?style=for-the-badge&logo=php&logoColor=white&color=red)
-![](https://img.shields.io/badge/framework-laravel-informational?style=for-the-badge&logo=laravel&logoColor=white&color=red)
-![](https://img.shields.io/badge/code-JavaScript-informational?style=for-the-badge&logo=JavaScript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/framework-React-informational?style=for-the-badge&logo=React&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/code-jquery-informational?style=for-the-badge&logo=jQuery&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/code-Node-informational?style=for-the-badge&logo=node.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 ⚡ Database
 
 ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/mongodb-informational?style=for-the-badge&logo=MONGODB&logoColor=white&color=green)
 
-Mobile Frameworks
+📱 Mobile Frameworks
 
 ![](https://img.shields.io/badge/code-Dart-informational?style=for-the-badge&logo=dart&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![](https://img.shields.io/badge/os-linux-informational?style=for-the-badge&logo=Linux&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/ide-vscode-informational?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white&color=blue)
 
-Electronics - Prototyping Platforms
+💡 Electronics - Prototyping Platforms
 
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
