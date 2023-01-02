@@ -4,6 +4,7 @@ Welcome
 ## 💾 Technologies & Tools
 ![](https://img.shields.io/badge/code-php-informational?style=for-the-badge&logo=php&logoColor=white&color=red)
 ![](https://img.shields.io/badge/framework-laravel-informational?style=for-the-badge&logo=laravel&logoColor=white&color=red)
+
 ![](https://img.shields.io/badge/code-JavaScript-informational?style=for-the-badge&logo=JavaScript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/framework-React-informational?style=for-the-badge&logo=React&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/code-jquery-informational?style=for-the-badge&logo=jQuery&logoColor=white&color=2bbc8a)
