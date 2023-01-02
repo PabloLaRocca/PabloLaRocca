@@ -2,6 +2,7 @@
 Welcome 
 
 ## 💾 Technologies & Tools
+Lenguage
 ![](https://img.shields.io/badge/code-php-informational?style=for-the-badge&logo=php&logoColor=white&color=red)
 ![](https://img.shields.io/badge/framework-laravel-informational?style=for-the-badge&logo=laravel&logoColor=white&color=red)
 ![](https://img.shields.io/badge/code-JavaScript-informational?style=for-the-badge&logo=JavaScript&logoColor=white&color=2bbc8a)
@@ -19,6 +20,8 @@ Welcome
 
 Electronics - Prototyping Platforms
 
+![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 ![](https://img.shields.io/badge/os-windows-informational?style=for-the-badge&logo=windows&logoColor=white&color=5C2D91)
